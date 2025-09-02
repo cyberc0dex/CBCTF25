@@ -28,13 +28,13 @@ const flags = {
     "challenge_crypto_2": "CBCTF{you_captured_me_finally}",
     "challenge_crypto_3": "CBCTF{.....}",
     "challenge_exploit_1": "CBCTF{f0rm4t_str1ng_3xpl01t_succ3ss}",
-    "challenge_forensic_1": "CBCTF{.....}",
-    "challenge_forensic_3": "CBCTF{.....}",
+    // "challenge_forensic_1": "CBCTF{.....}",
+    "challenge_forensic_3": "CBCTF{n0_m0r3_w4r5}",
     "challenge_network_1": "CBCTF{cYb3Rw@r}",
     "challenge_network_2": "CBCTF{HIDD3NM0RS3}",
-    "challenge_network_3": "CBCTF{.....}",
-    "challenge_misc_2": "CBCTF{d2hhdF9pc19nMDBnbGVfZG9ya2luZz8=}",
-    "challenge_misc_3": "CBCTF{.....}"
+    // "challenge_network_3": "CBCTF{.....}",
+    "challenge_misc_2": "CBCTF{d2hhdF9pc19nMDBnbGVfZG9ya2luZz8=}"
+    // "challenge_misc_3": "CBCTF{.....}"
 };
 
 

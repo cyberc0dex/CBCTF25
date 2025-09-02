@@ -154,15 +154,15 @@ body {
 .WIP a {
     color: #7c3aed;
 }
+.repoLink {
+    color: #7c3aed;
+}
 
 
 @media (max-width:600px) {
     .challenge {
         padding: 20px;
     }
-    /* .challName {
-        max-width:90%;
-    } */
     .checkFlag input {
         width: 90%;
         min-width:250px;
